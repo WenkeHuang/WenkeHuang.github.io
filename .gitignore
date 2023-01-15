@@ -10,3 +10,6 @@ images/._.DS_Store
 images/._FCCL.jpg
 images/._RNG.jpeg
 images/._wenke_2021.jpg
+*.xml
+*.iml
+.DS_Store
