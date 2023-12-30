@@ -1,15 +1,5 @@
 
-data/._.DS_Store
-._data
-._images
-._index.html
-._README.md
-._stylesheet.css
-data/._wenke-CV.pdf
-images/._.DS_Store
-images/._FCCL.jpg
-images/._RNG.jpeg
-images/._wenke_2021.jpg
+images/Baihe.jpg
 *.xml
-*.iml
-.DS_Store
+images/.DS_Store
+images/Publication/.DS_Store
