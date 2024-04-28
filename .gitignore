@@ -1,5 +1,2 @@
-
-images/Baihe.jpg
-*.xml
-images/.DS_Store
-images/Publication/.DS_Store
+.idea/
+.DS_Store
